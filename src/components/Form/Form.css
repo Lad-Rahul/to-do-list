@@ -1,0 +1,27 @@
+.Form{
+    display: flex;
+    margin: 8px 16px 8px 16px;
+}
+
+.InputText{
+    flex:10;
+}
+
+.AddBtn{
+    flex:2;
+    color:green;
+    cursor: pointer;
+}
+
+.AddBtn:disabled{
+    color:black;
+    background-color: #ccc;
+    cursor:not-allowed;
+}
+
+.InputForm{
+    font-size: 20px;
+    border: 1px solid green;
+    border-radius: 4px;
+    padding:12px;
+}

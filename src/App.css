@@ -1,0 +1,14 @@
+.App{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.TaskList{
+    margin:0;
+    padding:8px 8px 8px 8px;
+}
+
+.Btns{
+  text-align: center;
+}

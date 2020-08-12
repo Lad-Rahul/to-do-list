@@ -1,0 +1,11 @@
+export const FETCH_TODOS = 'FETCH_TODOS';
+export const ADD_TODO = 'ADD_TODO';
+export const CHANGE_CHECKBOX = 'CHANGE_CHECKBOX';
+export const CHANGE_STATUS = 'CHANGE_STATUS';
+export const EDIT_SINGLE_TODO = 'EDIT_SINGLE_TODO';
+export const SUBMIT_EDIT = 'SUBMIT_EDIT';
+export const CANCEL_EDIT = 'CANCEL_EDIT';
+export const DELETE_TODO = 'DELETE_TODO';
+export const DELETE_ALL = 'DELETE_ALL';
+export const CHANGE_STATUS_OF_ALL = 'CHANGE_STATUS_OF_ALL';
+export const EDIT_MULTIPLE_TODO = 'EDIT_MULTIPLE_TODO';

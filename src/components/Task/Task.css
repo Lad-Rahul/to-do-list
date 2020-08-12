@@ -1,0 +1,44 @@
+.LiItem{
+    padding:4px 8px 4px 8px;
+    margin:8px;
+    font-size: 20px;
+    list-style-type: none;
+    display: flex;
+}
+
+.Task{
+    flex:10;
+}
+
+.Checkbox{
+    height: 20px;
+    width:20px;
+}
+
+.Finished{
+    text-decoration: line-through;
+}
+
+.EditTask{
+    padding:2px 4px;
+    margin: 0;
+    background: transparent;
+    font-size: 20px;
+    width:95%;
+}
+
+.LiBtnGroup{
+    flex: 2;
+    display:flex;
+    justify-content: center;
+}
+
+.LiBtn{
+    flex:1;
+    text-align: center;
+}
+
+.Img{
+    width:24px;
+    height:24px;
+}
